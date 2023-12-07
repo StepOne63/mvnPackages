@@ -11,7 +11,7 @@ public class BonusServiceTest {
         // подготавливаем данные:;
         int income = 10_000;
         int expenses = 3_000;
-        boolean threshold = true;
+        int threshold = 20_000;
 
         // вызываем целевой метод:
 
